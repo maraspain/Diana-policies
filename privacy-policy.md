@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website, https://<username>.github.io/my-app-policies, and other sites we own and operate.
+Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website, https://maraspain.github.io/Diana-policies, and other sites we own and operate.
 
 ## Information We Collect
 
@@ -14,4 +14,4 @@ Your privacy is important to us. It is our policy to respect your privacy regard
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [your-email@example.com].
+If you have any questions about this Privacy Policy, please contact us at [marina.ochirova@kurelabs.es].
